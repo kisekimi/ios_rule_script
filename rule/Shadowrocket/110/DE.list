@@ -1,0 +1,21 @@
+DOMAIN,
+# N26
+DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,tech26.de
+DOMAIN-SUFFIX,number26.de
+DOMAIN-SUFFIX,dev-tech26.de
+
+# NEXO
+DOMAIN-SUFFIX,nexo.com
+DOMAIN-SUFFIX,nexo.io
+
+# Coinbase DE
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,sprig.com
+DOMAIN-SUFFIX,sardine.ai
+
+# Vodafone DE
+DOMAIN-SUFFIX,vodafone.de
+DOMAIN-SUFFIX,usercentrics.eu
+
+# 
