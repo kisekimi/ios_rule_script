@@ -1,10 +1,5 @@
-DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
-DOMAIN-SUFFIX,115.com
-DOMAIN-SUFFIX,115cdn.com
-DOMAIN-SUFFIX,115cdn.net
-DOMAIN-SUFFIX,115img.com
-DOMAIN-SUFFIX,116cd.cn
-DOMAIN-SUFFIX,116cd.com
-DOMAIN-SUFFIX,116cd.net
-DOMAIN-SUFFIX,anxia.com
-DOMAIN-SUFFIX,sq.cc
+# Trading212
+DOMAIN,trading212equities.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,trading212.com
+
+# 
