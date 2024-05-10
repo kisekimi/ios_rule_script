@@ -3,4 +3,4 @@ DOMAIN,trading212equities.s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,trading212.com
 
 # Wise
-wise.com
+DOMAIN-SUFFIX,wise.com
