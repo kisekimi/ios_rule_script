@@ -1,9 +1,6 @@
 # Trading212
 DOMAIN-KEYWORD,yrkm8m
-
-DOMAIN,trading212equities.s3.eu-central-1.amazonaws.com
-
-DOMAIN-SUFFIX,trading212.com
+DOMAIN-KEYWORD,trading212
 
 # Wise
 DOMAIN,sdk-api-v1.singular.net
