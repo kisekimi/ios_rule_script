@@ -9,7 +9,8 @@ DOMAIN-SUFFIX,collect-ap-east-1.tealiumiq.com
 DOMAIN-SUFFIX,tiqcdn.com
 DOMAIN-SUFFIX,online-metrix.net
 DOMAIN-SUFFIX,log-58144bf0.we-stats.com
-DOMAIN-SUFFIX,sy-idp.liveperson.net
+DOMAIN-SUFFIX,sy.idp.liveperson.net
+DOMAIN-SUFFIX,sy.push.liveperson.net
 
 # iFast UK
 DOMAIN-SUFFIX,ifastgb.com
