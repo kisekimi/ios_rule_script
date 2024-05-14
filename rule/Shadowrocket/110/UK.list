@@ -1,8 +1,12 @@
 # Trading212
+DOMAIN-KEYWORD,yrkm8m
+
 DOMAIN,trading212equities.s3.eu-central-1.amazonaws.com
+
 DOMAIN-SUFFIX,trading212.com
 
 # Wise
+DOMAIN,sdk-api-v1.singular.net
+DOMAIN,sdk.fra-01.braze.eu
+
 DOMAIN-SUFFIX,wise.com
-DOMAIN-SUFFIX,sdk-api-v1.singular.net
-DOMAIN-SUFFIX,sdk.fra-01.braze.eu
