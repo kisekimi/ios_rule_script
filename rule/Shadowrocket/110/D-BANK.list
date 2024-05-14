@@ -1,7 +1,7 @@
-# iFast
+# iFast UK
 DOMAIN-SUFFIX,ifastgb.com
 
-# ZA
+# ZA HK
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zajourney.com
 DOMAIN-SUFFIX,zafinsvc.com
@@ -10,3 +10,11 @@ DOMAIN-SUFFIX,zaticdn.com
 # Antbank HK
 DOMAIN-KEYWORD,antbank
 DOMAIN-KEYWORD,antgroup
+
+# Airstar Bank HK
+DOMAIN-KEYWORD,airstarbank
+
+# Livi Bank HK
+DOMAIN-KEYWORD,livibank
+
+DOMAIN-SUFFIX,branch.io
