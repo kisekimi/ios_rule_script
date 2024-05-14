@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,ipsnmedia.com
 
 # iFast UK
-DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-KEYWORD,ifastgb
 
 # ZA HK
 DOMAIN-SUFFIX,za.group
