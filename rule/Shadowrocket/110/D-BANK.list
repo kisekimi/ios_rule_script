@@ -15,7 +15,12 @@ DOMAIN-SUFFIX,ipsnmedia.com
 # iFast UK
 DOMAIN-KEYWORD,ifastgb
 
-# ZA HK
+# Fusion Bank HK
+DOMAIN-KEYWORD,fusionbank
+
+
+
+# ZA Bank HK
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zajourney.com
 DOMAIN-SUFFIX,zafinsvc.com
@@ -30,5 +35,4 @@ DOMAIN-KEYWORD,airstarbank
 
 # Livi Bank HK
 DOMAIN-KEYWORD,livibank
-
 DOMAIN-SUFFIX,branch.io
