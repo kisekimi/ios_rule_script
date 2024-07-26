@@ -1,3 +1,7 @@
+# iTiger
+DOMAIN-SUFFIX,itigerup.com
+DOMAIN-SUFFIX,tradeup.com
+
 # HSBC HK
 DOMAIN-KEYWORD,hsbc.hk
 DOMAIN-KEYWORD,hsbc.com.hk
@@ -17,6 +21,7 @@ DOMAIN-KEYWORD,ifastgb
 
 # BOC HK
 DOMAIN-KEYWORD,bochk
+
 DOMAIN-SUFFIX,trkd-hs.com
 
 # Fusion Bank HK
@@ -37,4 +42,5 @@ DOMAIN-KEYWORD,airstarbank
 
 # Livi Bank HK
 DOMAIN-KEYWORD,livibank
+
 DOMAIN-SUFFIX,branch.io
