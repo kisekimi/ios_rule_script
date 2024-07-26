@@ -15,12 +15,12 @@ DOMAIN-SUFFIX,ipsnmedia.com
 # iFast UK
 DOMAIN-KEYWORD,ifastgb
 
-# Fusion Bank HK
-DOMAIN-KEYWORD,fusionbank
-
 # BOC HK
 DOMAIN-KEYWORD,bochk
 DOMAIN-SUFFIX,trkd-hs.com
+
+# Fusion Bank HK
+DOMAIN-KEYWORD,fusionbank
 
 # ZA Bank HK
 DOMAIN-SUFFIX,za.group
