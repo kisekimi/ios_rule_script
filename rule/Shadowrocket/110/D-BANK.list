@@ -18,7 +18,9 @@ DOMAIN-KEYWORD,ifastgb
 # Fusion Bank HK
 DOMAIN-KEYWORD,fusionbank
 
-
+# BOC HK
+DOMAIN-KEYWORD,bochk
+DOMAIN-SUFFIX,trkd-hs.xom
 
 # ZA Bank HK
 DOMAIN-SUFFIX,za.group
