@@ -44,3 +44,8 @@ DOMAIN-KEYWORD,airstarbank
 DOMAIN-KEYWORD,livibank
 
 DOMAIN-SUFFIX,branch.io
+
+# OCBC HSG
+DOMAIN-KEYWORD,ocbc.
+
+DOMAIN-SUFFIX,prreqcroab.icu
