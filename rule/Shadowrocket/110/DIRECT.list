@@ -45,6 +45,11 @@ DOMAIN-KEYWORD,livibank
 
 DOMAIN-SUFFIX,branch.io
 
+# WeLab Bank HK
+DOMAIN-KEYWORD,welab
+
+DOMAIN-SUFFIX,mpp.prd.meawallet.app
+
 # OCBC HSG
 DOMAIN-KEYWORD,ocbc.
 DOMAIN-KEYWORD,ocbcstack
